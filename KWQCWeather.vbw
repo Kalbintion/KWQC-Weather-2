@@ -1,0 +1,4 @@
+frmMain = 454, 288, 1272, 1079, C, 0, 0, 0, 0, C
+modWeatherData = 266, 131, 1279, 980, 
+modSysIcon = 136, 117, 767, 966, C
+modShortcut = 643, 11, 1774, 860, C
